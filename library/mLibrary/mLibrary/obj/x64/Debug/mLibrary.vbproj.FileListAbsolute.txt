@@ -1,0 +1,10 @@
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\bin\x64\Debug\mLibrary.dll.config
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\bin\x64\Debug\mLibrary.dll
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\bin\x64\Debug\mLibrary.pdb
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\bin\x64\Debug\mLibrary.xml
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\obj\x64\Debug\mLibrary.Resources.resources
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\obj\x64\Debug\mLibrary.vbproj.GenerateResource.Cache
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\obj\x64\Debug\mLibrary.dll
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\obj\x64\Debug\mLibrary.xml
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\obj\x64\Debug\mLibrary.pdb
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\obj\x64\Debug\mLibrary.vbprojResolveAssemblyReference.cache

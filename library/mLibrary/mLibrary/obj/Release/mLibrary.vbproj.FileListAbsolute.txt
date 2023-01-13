@@ -1,0 +1,9 @@
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\bin\Release\mLibrary.dll.config
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\bin\Release\mLibrary.dll
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\bin\Release\mLibrary.pdb
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\bin\Release\mLibrary.xml
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\obj\Release\mLibrary.Resources.resources
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\obj\Release\mLibrary.vbproj.GenerateResource.Cache
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\obj\Release\mLibrary.dll
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\obj\Release\mLibrary.xml
+C:\Users\vmgis\Documents\Visual Studio 2010\Projects\mLibrary\mLibrary\obj\Release\mLibrary.pdb
